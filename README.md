@@ -6,11 +6,10 @@ Full Stack Developer, Ai & ML
 
 Aspiring AI and Web Developer 🚀 | Student passionate about creating innovative web applications and integrating AI for smarter solutions 🌐🤖 | Always learning, coding, and exploring the tech frontier 📚💻 | Open to collaboration and eager to contribute to exciting projects 🤝🔍
 
-* 🌍  I'm based in Hyderabad
+* 🌍  I'm based in Buffalo, NY
 * 🖥️  See my portfolio at [Mubashir's Portfolio](http://mubashir-portfolio.vercel.app/)
-* ✉️  You can contact me at [mkhajamubashir@gmail.com](mailto:mkhajamubashir@gmail.com)
+* ✉️  You can contact me at [mubashiruddinkhaja03@gmail.com](mailto:mubashiruddinkkhaja03@gmail.com)
 * 🚀  I'm currently working on [Threads](http://threads-app-dun.vercel.app/)
-* 🧠  I'm learning MERN and MEAN Stack, DSA(C++ and Java), AI & ML
 
 ### Skills
 
@@ -26,10 +25,10 @@ Aspiring AI and Web Developer 🚀 | Student passionate about creating innovativ
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<!-- <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/immubashir"><img src="https://github-readme-stats.vercel.app/api?username=immubashir&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="immubashir's GitHub stats" /></a>
+<a href="http://www.github.com/immubashir"><img src="https://github-readme-stats.vercel.app/api?username=immubashir&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="immubashir's GitHub stats" /></a> -->
 
-<a href="http://www.github.com/immubashir"><img src="https://github-readme-streak-stats.herokuapp.com/?user=immubashir&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- <a href="http://www.github.com/immubashir"><img src="https://github-readme-streak-stats.herokuapp.com/?user=immubashir&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
-<a href="https://github.com/immubashir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immubashir&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/immubashir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immubashir&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
