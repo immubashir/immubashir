@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mubashir
+Hi ! I am Mubashir
 ================================================================================================================================
 
-Full Stack Developer, Ai & ML
+AI & Machine Learning Engineer
 -----------------------------
 
 Aspiring AI and Web Developer 🚀 | Student passionate about creating innovative web applications and integrating AI for smarter solutions 🌐🤖 | Always learning, coding, and exploring the tech frontier 📚💻 | Open to collaboration and eager to contribute to exciting projects 🤝🔍
