@@ -1,112 +1,168 @@
-<img width="1661" height="498" alt="Group 2_1" src="https://github.com/user-attachments/assets/8f069117-f7b6-495e-a360-4f9bce740faa" />
-<h1>Hi ! I am Mubashir!</h1>
-<h1 align="center">Mubashir Uddin</h1>
+<img width="100%" src="https://raw.githubusercontent.com/immubashir/immubashir/main/banner.png" />
 
-================================================================================================================================
+<div align="center">
+
+# hey, i'm mubashir 👋
+
+### building thoughtful AI-powered experiences, interaction systems, and experimental interfaces.
+
 <p align="center">
-AI Product Designer • Design Engineer • AI/ML Developer
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=designing+interfaces+that+think+a+little;building+calm+AI-native+experiences;exploring+multimodal+interaction+systems;turning+ideas+into+interactive+systems" />
 </p>
 
-AI & Machine Learning Engineer
------------------------------
-<p align="center">
-Designing AI-native interfaces, multimodal systems, and intelligent user experiences.
-</p>
+</div>
 
-Aspiring AI and Web Developer 🚀 | Student passionate about creating innovative web applications and integrating AI for smarter solutions 🌐🤖 | Always learning, coding, and exploring the tech frontier 📚💻 | Open to collaboration and eager to contribute to exciting projects 🤝🔍
 ---
 
-* 🌍  I'm based in Buffalo, NY
-* 🖥️  See my portfolio at [Mubashir's Portfolio](http://mubashir-portfolio.vercel.app/)
-* ✉️  You can contact me at [mubashiruddinkhaja03@gmail.com](mailto:mubashiruddinkkhaja03@gmail.com)
-* 🚀  I'm currently working on [Threads](http://threads-app-dun.vercel.app/)
-## About Me
+## currently exploring
 
-### Skills
-I'm a Computer Science graduate student at the University at Buffalo focused on AI/ML, product design, and intelligent interaction systems.
+```txt
+✦ multimodal AI interfaces
+✦ spatial reasoning systems
+✦ motion-driven UI
+✦ realtime interaction systems
+✦ calm productivity software
+✦ AI-assisted workflows
+✦ design engineering
+````
 
-My work sits at the intersection of:
+---
+
+## featured projects
+
+<table>
+<tr>
+<td width="50%">
+
+### ✦ Hourflow
+
+a calm AI-powered workspace designed to reduce context switching and make learning feel more fluid.
+
+* notes-first workflows
+* AI-assisted explanations
+* contextual learning systems
+* experimental interaction patterns
+
+</td>
+
+<td width="50%">
+
+### ✦ GestureDrive
+
+a realtime hand gesture recognition system for touchless in-car interaction.
+
+* PyTorch + MediaPipe
+* computer vision pipelines
+* realtime inference
+* gesture-based controls
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ✦ SleepSense
+
+an AI-based wellness & productivity platform exploring the relationship between sleep and academic performance.
+
+* wearable-driven insights
+* ML prediction systems
+* wellness analytics
+* behavioral data processing
+
+</td>
+
+<td width="50%">
+
+### ✦ currently building
+
+* AI-native productivity tools
+* interaction systems
+* multimodal workflows
+* calm digital experiences
+* experimental interfaces
+
+</td>
+</tr>
+</table>
+
+---
+
+## things i care about
+
+<div align="left">
+
+🧠 reducing cognitive overload
+✨ interfaces with personality
+🎨 thoughtful interactions
+🤖 human-centered AI
+⚡ blending design with engineering
+🌌 calm & immersive digital experiences
+
+</div>
+
+---
+
+## tech i use a lot
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-</a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,figma,python,pytorch,nodejs,mongodb,postgres,flask,git,vscode" />
 </p>
-- AI Product Design
-- Human-AI Interaction
-- Frontend Engineering
-- Multimodal Interfaces
-- Spatial & Contextual Computing
-
-I enjoy building systems that combine strong visual design with real machine learning capabilities.
 
 ---
 
-## Featured Projects
+## github activity
 
-### Hourflow
-AI-powered workspace designed for deep focus and contextual learning.
+<p align="center">
 
-- AI-assisted workflows
-- Context-aware note systems
-- Intelligent document interaction
-- Built with Next.js + Tailwind + Motion
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=immubashir&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 
----
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immubashir&layout=compact&theme=transparent&hide_border=true" />
 
-### GestureDrive
-Real-time hand gesture recognition system for in-car interaction.
+</p>
 
-- ~94% model accuracy
-- PyTorch + MediaPipe
-- Touchless media controls
-- Real-time inference pipeline
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=immubashir&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
-### SleepSense
-AI-based student wellness prediction platform using wearable data.
+## fun facts
 
-- ~96% prediction accuracy
-- ML + data visualization
-- PySpark preprocessing pipeline
-- GPA prediction insights
-
----
-
-## Tech Stack
-
-### Design & Frontend
-React • Next.js • TypeScript • TailwindCSS • Framer Motion • Figma
-
-### AI / ML
-Python • PyTorch • Scikit-learn • OpenCV • MediaPipe • Spark ML
-
-### Backend & Data
-Node.js • Flask • PostgreSQL • MongoDB • Firebase
+```txt
+✦ i probably overuse blur effects
+✦ dark mode enthusiast
+✦ currently making everything purple
+✦ motion > static interfaces
+✦ side projects = design experiments
+✦ my best ideas usually happen at night
+```
 
 ---
 
-### Socials
-## Current Focus
+## elsewhere on the internet
 
-<p align="left"> <a href="https://www.github.com/immubashir" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/mubashir_7750" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in//mubashir-uddin/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-- AI-native user experiences
-- Multimodal interaction systems
-- Spatial AI
-- Design engineering
-- Intelligent productivity systems
+<p align="left">
 
-### Badges
+<a href="https://kmubashir.space">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/mubashir-uddin">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:mubashiruddinkhaja03@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
 ---
 
-<!-- <b>My GitHub Stats</b>
-## Connect
+<div align="center">
 
-<a href="http://www.github.com/immubashir"><img src="https://github-readme-stats.vercel.app/api?username=immubashir&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="immubashir's GitHub stats" /></a> -->
-Portfolio → https://kmubashir.space
+### designing interfaces that think a little.
 
-<!-- <a href="http://www.github.com/immubashir"><img src="https://github-readme-streak-stats.herokuapp.com/?user=immubashir&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
-LinkedIn → https://linkedin.com/in/mubashir-uddin
-
-<!-- <a href="https://github.com/immubashir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immubashir&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
-Email → mubashiruddinkhaja03@gmail.com
+</div>
