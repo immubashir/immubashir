@@ -1,90 +1,109 @@
-<h1 align="center">Mubashir Uddin</h1>
+```md
+<img width="100%" src="YOUR_BANNER_LINK_HERE" />
 
-<p align="center">
-AI Product Designer • Design Engineer • AI/ML Developer
-</p>
+# hey, i'm mubashir 👋
 
-<p align="center">
-Designing AI-native interfaces, multimodal systems, and intelligent user experiences.
-</p>
+i build thoughtful AI-powered experiences, interaction systems, and experimental interfaces.
 
----
+most of my work lives somewhere between:
+- AI
+- design
+- frontend engineering
+- motion systems
+- and random ideas that start at 2AM
 
-## About Me
-
-I'm a Computer Science graduate student at the University at Buffalo focused on AI/ML, product design, and intelligent interaction systems.
-
-My work sits at the intersection of:
-
-- AI Product Design
-- Human-AI Interaction
-- Frontend Engineering
-- Multimodal Interfaces
-- Spatial & Contextual Computing
-
-I enjoy building systems that combine strong visual design with real machine learning capabilities.
+currently trying to make software feel calmer, smarter, and a little more human.
 
 ---
 
-## Featured Projects
+### currently exploring
 
-### Hourflow
-AI-powered workspace designed for deep focus and contextual learning.
-
+- multimodal AI interfaces
+- spatial reasoning systems
+- motion-driven UI
+- calm productivity software
 - AI-assisted workflows
-- Context-aware note systems
-- Intelligent document interaction
-- Built with Next.js + Tailwind + Motion
+- realtime interaction systems
+- design engineering
 
 ---
 
-### GestureDrive
-Real-time hand gesture recognition system for in-car interaction.
+### featured things i've built
 
-- ~94% model accuracy
-- PyTorch + MediaPipe
-- Touchless media controls
-- Real-time inference pipeline
+#### ✦ Hourflow
+a calm AI-powered workspace designed to reduce context switching and make learning feel more fluid.
 
----
-
-### SleepSense
-AI-based student wellness prediction platform using wearable data.
-
-- ~96% prediction accuracy
-- ML + data visualization
-- PySpark preprocessing pipeline
-- GPA prediction insights
+> notes-first workflows, AI-assisted explanations, document interaction systems, and experimental UI concepts
 
 ---
 
-## Tech Stack
+#### ✦ GestureDrive
+a realtime hand gesture recognition system for touchless in-car interaction.
 
-### Design & Frontend
-React • Next.js • TypeScript • TailwindCSS • Framer Motion • Figma
-
-### AI / ML
-Python • PyTorch • Scikit-learn • OpenCV • MediaPipe • Spark ML
-
-### Backend & Data
-Node.js • Flask • PostgreSQL • MongoDB • Firebase
+> built with PyTorch + MediaPipe + computer vision pipelines
 
 ---
 
-## Current Focus
+#### ✦ SleepSense
+an AI-based wellness & productivity platform exploring the relationship between sleep, wellness, and academic performance.
 
-- AI-native user experiences
-- Multimodal interaction systems
-- Spatial AI
-- Design engineering
-- Intelligent productivity systems
+> wearable data + ML + behavioral insights
 
 ---
 
-## Connect
+### things i care about
 
-Portfolio → https://kmubashir.space
+- reducing cognitive overload
+- interfaces with personality
+- thoughtful interactions
+- human-centered AI
+- systems that respect attention
+- blending design with engineering
+- making technology feel intuitive
 
-LinkedIn → https://linkedin.com/in/mubashir-uddin
+---
 
-Email → mubashiruddinkhaja03@gmail.com
+### fun facts
+
+- i probably overuse blur effects
+- dark mode enthusiast
+- currently making everything purple
+- motion > static interfaces
+- i treat side projects like design experiments
+- my best ideas usually happen at night
+
+---
+
+### tech i use a lot
+
+#### design + frontend
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwind-css)
+![Framer Motion](https://img.shields.io/badge/-Motion-000?style=for-the-badge&logo=framer)
+
+#### AI / ML
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?style=for-the-badge&logo=opencv)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+
+---
+
+### elsewhere on the internet
+
+🌐 portfolio → [kmubashir.space](https://kmubashir.space)
+
+💼 linkedin → [linkedin.com/in/mubashir-uddin](https://linkedin.com/in/mubashir-uddin)
+
+📫 reach me → mubashiruddinkhaja03@gmail.com
+
+---
+
+<div align="center">
+
+*"designing interfaces that think a little."*
+
+</div>
+```
