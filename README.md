@@ -1,168 +1,66 @@
-<img width="100%" src="https://raw.githubusercontent.com/immubashir/immubashir/main/banner.png" />
-
-<div align="center">
-
-# hey, i'm mubashir 👋
-
-### building thoughtful AI-powered experiences, interaction systems, and experimental interfaces.
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=designing+interfaces+that+think+a+little;building+calm+AI-native+experiences;exploring+multimodal+interaction+systems;turning+ideas+into+interactive+systems" />
-</p>
-
-</div>
+![banner](./assets/banner.svg)
 
 ---
 
-## currently exploring
+i build things that reduce friction in real life — not just on screens.
 
-```txt
-✦ multimodal AI interfaces
-✦ spatial reasoning systems
-✦ motion-driven UI
-✦ realtime interaction systems
-✦ calm productivity software
-✦ AI-assisted workflows
-✦ design engineering
-````
+my work sits at the intersection of **product engineering**, **AI/ML**, and **interaction design**. i care about the moment a person actually uses something: does it make their life easier, or just more complicated?
+
+that question drives everything i build.
 
 ---
 
-## featured projects
+## what i'm about
 
-<table>
-<tr>
-<td width="50%">
+most engineers build features. i build for the moment *after* the feature ships — when a real person opens it, confused or tired or just trying to get something done. i want that moment to feel effortless.
 
-### ✦ Hourflow
-
-a calm AI-powered workspace designed to reduce context switching and make learning feel more fluid.
-
-* notes-first workflows
-* AI-assisted explanations
-* contextual learning systems
-* experimental interaction patterns
-
-</td>
-
-<td width="50%">
-
-### ✦ GestureDrive
-
-a realtime hand gesture recognition system for touchless in-car interaction.
-
-* PyTorch + MediaPipe
-* computer vision pipelines
-* realtime inference
-* gesture-based controls
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ✦ SleepSense
-
-an AI-based wellness & productivity platform exploring the relationship between sleep and academic performance.
-
-* wearable-driven insights
-* ML prediction systems
-* wellness analytics
-* behavioral data processing
-
-</td>
-
-<td width="50%">
-
-### ✦ currently building
-
-* AI-native productivity tools
-* interaction systems
-* multimodal workflows
-* calm digital experiences
-* experimental interfaces
-
-</td>
-</tr>
-</table>
+that means i think in systems: how the model behaves, how the interface responds, how the whole experience holds together under pressure. i work across the full stack — from training pipelines to production UI — because the best AI experiences can't be handed off between people who don't talk to each other.
 
 ---
 
-## things i care about
+## things i've built
 
-<div align="left">
+![projects](./assets/projects.svg)
 
-🧠 reducing cognitive overload
-✨ interfaces with personality
-🎨 thoughtful interactions
-🤖 human-centered AI
-⚡ blending design with engineering
-🌌 calm & immersive digital experiences
+**[GestureDrive](https://github.com/immubashir/GestureDrive)** — real-time hand gesture recognition for in-car control. no touchscreen. no voice. just your hands, a camera, and a model that has to be right the first time. built with PyTorch + MediaPipe, reduced false positives to under 4%.
 
-</div>
+**[SleepSense](https://github.com/immubashir/sleepsense)** — an AI wellness platform that turns wearable sleep data into predictions about academic performance. the hard part wasn't the ML — it was making the outputs readable to a student who just wants to know if they should sleep more. runner-up, best project award @ UB CSE-587.
 
----
+**[Genius](https://github.com/immubashir/genius)** — a multi-agent AI platform with five production agents: chat, coding assistant, image, video, and music generation. full stack: Next.js + Node/Express + PostgreSQL, deployed on Vercel.
 
-## tech i use a lot
+**[Sociogram](https://github.com/immubashir/threads_app)** — a social platform built from scratch. auth, posts, profiles, feeds. the kind of thing you only really understand by building it yourself, end to end.
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,figma,python,pytorch,nodejs,mongodb,postgres,flask,git,vscode" />
-</p>
+**[Fashionista](https://github.com/immubashir/fashionista)** — a full e-commerce application. product pages, cart, payments. real transactions, real edge cases.
 
 ---
 
-## github activity
+## stack
 
-<p align="center">
+![skills](./assets/skills.svg)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=immubashir&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immubashir&layout=compact&theme=transparent&hide_border=true" />
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=immubashir&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## fun facts
-
-```txt
-✦ i probably overuse blur effects
-✦ dark mode enthusiast
-✦ currently making everything purple
-✦ motion > static interfaces
-✦ side projects = design experiments
-✦ my best ideas usually happen at night
+```
+languages     Python · TypeScript · JavaScript
+frontend      React · Next.js · Tailwind CSS
+backend       Node.js · Express · PostgreSQL · Flask
+AI / ML       PyTorch · TensorFlow · computer vision · generative AI
+design        Figma · interaction design · design systems
+tooling       Cursor · Claude · Git
 ```
 
 ---
 
-## elsewhere on the internet
+## how i work
 
-<p align="left">
+i use AI tooling the way most engineers use autocomplete — it's not a party trick, it's just how i build. Cursor and Claude are open every time i write code.
 
-<a href="https://kmubashir.space">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+i think the engineers who'll matter in the next five years are the ones who can move between the model layer and the interface layer without losing the thread of what the person on the other end actually needs.
 
-<a href="https://linkedin.com/in/mubashir-uddin">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:mubashiruddinkhaja03@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
+that's what i'm trying to be.
 
 ---
 
-<div align="center">
+## find me
 
-### designing interfaces that think a little.
-
-</div>
+[![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kmubashir.space)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mubashir-uddin)
+[![email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubashiruddinkhaja03@gmail.com)
