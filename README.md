@@ -1,4 +1,4 @@
-![banner](./assets/banner.svg)
+![banner](./banner.svg)
 
 ---
 
@@ -20,7 +20,7 @@ that means i think in systems: how the model behaves, how the interface responds
 
 ## things i've built
 
-![projects](./assets/projects.svg)
+![projects](./projects.svg)
 
 **[GestureDrive](https://github.com/immubashir/GestureDrive)** — real-time hand gesture recognition for in-car control. no touchscreen. no voice. just your hands, a camera, and a model that has to be right the first time. built with PyTorch + MediaPipe, reduced false positives to under 4%.
 
@@ -36,7 +36,7 @@ that means i think in systems: how the model behaves, how the interface responds
 
 ## stack
 
-![skills](./assets/skills.svg)
+![skills](./skills.svg)
 
 ```
 languages     Python · TypeScript · JavaScript
