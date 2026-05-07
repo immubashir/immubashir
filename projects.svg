@@ -1,0 +1,84 @@
+<svg width="100%" viewBox="0 0 680 420" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Featured projects</title>
+  <desc>Five project cards: GestureDrive, SleepSense, Genius, Sociogram, Fashionista</desc>
+  <style>
+    .card-bg  { fill:#fff; stroke:#E8E8E8; stroke-width:0.5; }
+    .ptitle   { font:500 13px/1 -apple-system,sans-serif; fill:#111; }
+    .pdesc    { font:400 11px/1.5 -apple-system,sans-serif; fill:#666; }
+    .badge    { font:400 10px/1 -apple-system,sans-serif; }
+    .fadein   { animation: fi 0.5s ease both; }
+    @keyframes fi { from{ opacity:0; transform:translateY(8px) } to{ opacity:1; transform:translateY(0) } }
+  </style>
+  <g class="fadein" style="animation-delay:0.05s">
+    <rect x="20" y="10" width="308" height="120" rx="10" class="card-bg"/>
+    <rect x="20" y="10" width="4" height="120" rx="2" fill="#378ADD"/>
+    <text x="38" y="38" class="ptitle">GestureDrive</text>
+    <text x="38" y="56"><tspan class="pdesc">Real-time gesture recognition for in-car</tspan></text>
+    <text x="38" y="70"><tspan class="pdesc">control. PyTorch + MediaPipe. Under 4%</tspan></text>
+    <text x="38" y="84"><tspan class="pdesc">false positive rate.</tspan></text>
+    <rect x="38" y="98" width="56" height="18" rx="9" fill="#E6F1FB"/>
+    <text x="66" y="111" class="badge" text-anchor="middle" fill="#0C447C">PyTorch</text>
+    <rect x="100" y="98" width="74" height="18" rx="9" fill="#E6F1FB"/>
+    <text x="137" y="111" class="badge" text-anchor="middle" fill="#0C447C">MediaPipe</text>
+    <rect x="180" y="98" width="46" height="18" rx="9" fill="#E6F1FB"/>
+    <text x="203" y="111" class="badge" text-anchor="middle" fill="#0C447C">CV</text>
+  </g>
+  <g class="fadein" style="animation-delay:0.1s">
+    <rect x="352" y="10" width="308" height="120" rx="10" class="card-bg"/>
+    <rect x="352" y="10" width="4" height="120" rx="2" fill="#1D9E75"/>
+    <text x="370" y="38" class="ptitle">SleepSense</text>
+    <text x="370" y="56"><tspan class="pdesc">Wearable sleep data → GPA predictions.</tspan></text>
+    <text x="370" y="70"><tspan class="pdesc">ML outputs designed for non-technical</tspan></text>
+    <text x="370" y="84"><tspan class="pdesc">users. Runner-up, best project @ UB.</tspan></text>
+    <rect x="370" y="98" width="50" height="18" rx="9" fill="#E1F5EE"/>
+    <text x="395" y="111" class="badge" text-anchor="middle" fill="#085041">Python</text>
+    <rect x="428" y="98" width="30" height="18" rx="9" fill="#E1F5EE"/>
+    <text x="443" y="111" class="badge" text-anchor="middle" fill="#085041">ML</text>
+    <rect x="464" y="98" width="60" height="18" rx="9" fill="#E1F5EE"/>
+    <text x="494" y="111" class="badge" text-anchor="middle" fill="#085041">Full stack</text>
+  </g>
+  <g class="fadein" style="animation-delay:0.15s">
+    <rect x="20" y="150" width="308" height="120" rx="10" class="card-bg"/>
+    <rect x="20" y="150" width="4" height="120" rx="2" fill="#7F77DD"/>
+    <text x="38" y="178" class="ptitle">Genius</text>
+    <text x="38" y="196"><tspan class="pdesc">Multi-agent AI platform: chat, code, image,</tspan></text>
+    <text x="38" y="210"><tspan class="pdesc">video, music. Five production agents.</tspan></text>
+    <text x="38" y="224"><tspan class="pdesc">Next.js + Node + PostgreSQL, on Vercel.</tspan></text>
+    <rect x="38" y="238" width="60" height="18" rx="9" fill="#EEEDFE"/>
+    <text x="68" y="251" class="badge" text-anchor="middle" fill="#3C3489">Next.js</text>
+    <rect x="104" y="238" width="50" height="18" rx="9" fill="#EEEDFE"/>
+    <text x="129" y="251" class="badge" text-anchor="middle" fill="#3C3489">Node</text>
+    <rect x="160" y="238" width="46" height="18" rx="9" fill="#EEEDFE"/>
+    <text x="183" y="251" class="badge" text-anchor="middle" fill="#3C3489">PG</text>
+    <rect x="212" y="238" width="50" height="18" rx="9" fill="#EEEDFE"/>
+    <text x="237" y="251" class="badge" text-anchor="middle" fill="#3C3489">AI</text>
+  </g>
+  <g class="fadein" style="animation-delay:0.2s">
+    <rect x="352" y="150" width="308" height="120" rx="10" class="card-bg"/>
+    <rect x="352" y="150" width="4" height="120" rx="2" fill="#D85A30"/>
+    <text x="370" y="178" class="ptitle">Sociogram</text>
+    <text x="370" y="196"><tspan class="pdesc">Full-stack social platform built from</tspan></text>
+    <text x="370" y="210"><tspan class="pdesc">scratch — auth, posts, profiles, feeds.</tspan></text>
+    <text x="370" y="224"><tspan class="pdesc">TypeScript throughout.</tspan></text>
+    <rect x="370" y="238" width="68" height="18" rx="9" fill="#FAECE7"/>
+    <text x="404" y="251" class="badge" text-anchor="middle" fill="#712B13">Next.js</text>
+    <rect x="444" y="238" width="50" height="18" rx="9" fill="#FAECE7"/>
+    <text x="469" y="251" class="badge" text-anchor="middle" fill="#712B13">Node</text>
+    <rect x="500" y="238" width="56" height="18" rx="9" fill="#FAECE7"/>
+    <text x="528" y="251" class="badge" text-anchor="middle" fill="#712B13">Auth</text>
+  </g>
+  <g class="fadein" style="animation-delay:0.25s">
+    <rect x="20" y="290" width="308" height="120" rx="10" class="card-bg"/>
+    <rect x="20" y="290" width="4" height="120" rx="2" fill="#888780"/>
+    <text x="38" y="318" class="ptitle">Fashionista</text>
+    <text x="38" y="336"><tspan class="pdesc">E-commerce from scratch — product pages,</tspan></text>
+    <text x="38" y="350"><tspan class="pdesc">cart, and payments. Real transactions,</tspan></text>
+    <text x="38" y="364"><tspan class="pdesc">real edge cases.</tspan></text>
+    <rect x="38" y="378" width="68" height="18" rx="9" fill="#F1EFE8"/>
+    <text x="72" y="391" class="badge" text-anchor="middle" fill="#444441">Next.js</text>
+    <rect x="112" y="378" width="68" height="18" rx="9" fill="#F1EFE8"/>
+    <text x="146" y="391" class="badge" text-anchor="middle" fill="#444441">Payments</text>
+    <rect x="186" y="378" width="46" height="18" rx="9" fill="#F1EFE8"/>
+    <text x="209" y="391" class="badge" text-anchor="middle" fill="#444441">PG</text>
+  </g>
+</svg>

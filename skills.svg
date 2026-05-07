@@ -1,0 +1,44 @@
+<svg width="100%" viewBox="0 0 680 210" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Skills section</title>
+  <desc>Tech stack: frontend, backend, AI/ML and design tools</desc>
+  <style>
+    .cat  { font: 500 11px/1 -apple-system,sans-serif; fill: #888; letter-spacing:0.08em; }
+    .pill-t { font: 400 12px/1 -apple-system,sans-serif; }
+    .fadein { animation: fi 0.6s ease both; }
+    @keyframes fi { from{ opacity:0; transform:translateY(6px) } to{ opacity:1; transform:translateY(0) } }
+  </style>
+  <rect width="680" height="210" fill="#fff" rx="12" stroke="#E8E8E8" stroke-width="0.5"/>
+  <text x="40" y="38" class="cat">FRONTEND</text>
+  <g class="fadein" style="animation-delay:0.1s">
+    <rect x="40"  y="48" width="72"  height="26" rx="13" fill="#E6F1FB" stroke="#85B7EB" stroke-width="0.5"/>
+    <text x="76"  y="65" class="pill-t" text-anchor="middle" fill="#0C447C">React</text>
+    <rect x="120" y="48" width="78"  height="26" rx="13" fill="#E6F1FB" stroke="#85B7EB" stroke-width="0.5"/>
+    <text x="159" y="65" class="pill-t" text-anchor="middle" fill="#0C447C">Next.js</text>
+    <rect x="206" y="48" width="96"  height="26" rx="13" fill="#E6F1FB" stroke="#85B7EB" stroke-width="0.5"/>
+    <text x="254" y="65" class="pill-t" text-anchor="middle" fill="#0C447C">TypeScript</text>
+    <rect x="310" y="48" width="92"  height="26" rx="13" fill="#E6F1FB" stroke="#85B7EB" stroke-width="0.5"/>
+    <text x="356" y="65" class="pill-t" text-anchor="middle" fill="#0C447C">Tailwind CSS</text>
+  </g>
+  <text x="40" y="106" class="cat">BACKEND</text>
+  <g class="fadein" style="animation-delay:0.2s">
+    <rect x="40"  y="116" width="72"  height="26" rx="13" fill="#E1F5EE" stroke="#5DCAA5" stroke-width="0.5"/>
+    <text x="76"  y="133" class="pill-t" text-anchor="middle" fill="#085041">Node.js</text>
+    <rect x="120" y="116" width="80"  height="26" rx="13" fill="#E1F5EE" stroke="#5DCAA5" stroke-width="0.5"/>
+    <text x="160" y="133" class="pill-t" text-anchor="middle" fill="#085041">Express</text>
+    <rect x="208" y="116" width="92"  height="26" rx="13" fill="#E1F5EE" stroke="#5DCAA5" stroke-width="0.5"/>
+    <text x="254" y="133" class="pill-t" text-anchor="middle" fill="#085041">PostgreSQL</text>
+    <rect x="308" y="116" width="58"  height="26" rx="13" fill="#E1F5EE" stroke="#5DCAA5" stroke-width="0.5"/>
+    <text x="337" y="133" class="pill-t" text-anchor="middle" fill="#085041">Flask</text>
+  </g>
+  <text x="40" y="174" class="cat">AI / ML</text>
+  <g class="fadein" style="animation-delay:0.3s">
+    <rect x="40"  y="184" width="72"  height="26" rx="13" fill="#EEEDFE" stroke="#AFA9EC" stroke-width="0.5"/>
+    <text x="76"  y="201" class="pill-t" text-anchor="middle" fill="#3C3489">PyTorch</text>
+    <rect x="120" y="184" width="92"  height="26" rx="13" fill="#EEEDFE" stroke="#AFA9EC" stroke-width="0.5"/>
+    <text x="166" y="201" class="pill-t" text-anchor="middle" fill="#3C3489">TensorFlow</text>
+    <rect x="220" y="184" width="56"  height="26" rx="13" fill="#EEEDFE" stroke="#AFA9EC" stroke-width="0.5"/>
+    <text x="248" y="201" class="pill-t" text-anchor="middle" fill="#3C3489">Python</text>
+    <rect x="284" y="184" width="66"  height="26" rx="13" fill="#EEEDFE" stroke="#AFA9EC" stroke-width="0.5"/>
+    <text x="317" y="201" class="pill-t" text-anchor="middle" fill="#3C3489">Figma</text>
+  </g>
+</svg>
