@@ -18,13 +18,18 @@ that means i think in systems: how the model behaves, how the interface responds
 
 ---
 
+## currently building
+**[Hourflow]** — a focus-driven workspace that reduces context switching through a primary surface + transient systems model. Designed for people who think in systems, not task lists.
+
+---
+
 ## things i've built
 
 ![projects](./projects.svg)
 
-**[GestureDrive](https://github.com/immubashir/GestureDrive)** — real-time hand gesture recognition for in-car control. no touchscreen. no voice. just your hands, a camera, and a model that has to be right the first time. built with PyTorch + MediaPipe, reduced false positives to under 4%.
+**[GestureDrive](https://github.com/immubashir/GestureDrive)** — Real-time hand gesture recognition for in-car control. No touchscreen. No voice. Just a camera and a model that has to be right the first time. PyTorch + MediaPipe. Reduced false positives to under 4%.
 
-**[SleepSense](https://github.com/immubashir/sleepsense)** — an AI wellness platform that turns wearable sleep data into predictions about academic performance. the hard part wasn't the ML — it was making the outputs readable to a student who just wants to know if they should sleep more. runner-up, best project award @ UB CSE-587.
+**[SleepSense](https://github.com/immubashir/sleepsense)** — Turns wearable sleep data into predictions about academic performance. The hard part wasn't the ML — it was making the output readable to a student who just wants to know if they should sleep more. Runner-up, best project @ UB CSE-587.
 
 **[Genius](https://github.com/immubashir/genius)** — a multi-agent AI platform with five production agents: chat, coding assistant, image, video, and music generation. full stack: Next.js + Node/Express + PostgreSQL, deployed on Vercel.
 
